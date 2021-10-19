@@ -1,0 +1,10 @@
+.section-title_theme_dark {
+  margin: 0 auto 0;
+  padding-top: 90px;
+  display: flex;
+  justify-content: center;
+  width: 60%;
+  color: white;
+  position: relative;
+  z-index: 2;
+}
